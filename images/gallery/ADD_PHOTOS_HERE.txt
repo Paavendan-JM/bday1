@@ -1,0 +1,4 @@
+Add your gallery photos here.
+Recommended: 12–30 images
+Naming: photo-1.jpg, photo-2.jpg, photo-3.jpg, ...
+Supported formats: .jpg, .jpeg, .png, .webp

@@ -1,0 +1,3 @@
+Add exactly 3 photos here for the "Moments That Made Me Smile" section.
+Naming: moment-1.jpg, moment-2.jpg, moment-3.jpg
+Portrait orientation recommended.
